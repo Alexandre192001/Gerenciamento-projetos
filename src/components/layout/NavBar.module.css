@@ -1,0 +1,30 @@
+.NavBarContainer{
+    width: 100%;
+    height: 15rem;
+    background-color: #212121;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Container_Nav{
+    display: flex;
+    gap: 4rem;
+}
+
+.Container_Nav img{
+    width: 15rem;
+    height: 10rem;
+    border-radius: 1rem;
+}
+
+.LinksNav{
+    color: #fff;
+    text-decoration: none;
+    transition: all .4s ease;
+}
+
+.LinksNav:hover{
+    transform: scale(1.3);
+    color: rgb(227, 231, 23);
+}

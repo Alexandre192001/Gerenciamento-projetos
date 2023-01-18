@@ -1,0 +1,24 @@
+.container_home{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+    overflow: hidden;
+    text-align: center;
+    gap: 1rem; 
+}
+
+
+
+.title_home{
+    font-size: 50px;
+}
+.title_home span{
+    background-color: rgb(33, 29, 66);
+    color: #fff;
+    padding: .4rem;
+}
+
+

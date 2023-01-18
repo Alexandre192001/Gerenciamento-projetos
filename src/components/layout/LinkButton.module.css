@@ -1,0 +1,16 @@
+.btn{
+    text-decoration: none;
+    background-color: rgb(33, 29, 66);
+    color: #fff;
+    padding: 1rem;
+    width: 9rem;
+    transition: all .2s ease;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color: #fff;
+    border: solid .5px rgb(33, 29, 66);
+    color: rgb(33, 29, 66);
+    border-radius: 5rem;
+}
