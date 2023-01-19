@@ -1,15 +1,22 @@
 {
   "projects": [
     {
-      "name": "fdgfdgfd",
-      "budget": "555",
+      "name": "Teste1",
+      "budget": "10000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
-      "id": 1
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Contratar",
+          "cost": "3000",
+          "description": "asdaad",
+          "id": "093e30d7-a5c7-4a63-80a6-e664bb8f1673"
+        }
+      ],
+      "id": 2
     }
   ],
   "categories": [
