@@ -2,10 +2,13 @@
     text-decoration: none;
     background-color: rgb(33, 29, 66);
     color: #fff;
-    padding: 1rem;
+    padding: 1rem .4rem;
     width: 9rem;
     transition: all .2s ease;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn:hover{
