@@ -1,4 +1,4 @@
-import {parse,v4 as uuidv4} from 'uuid'
+import {v4 as uuidv4} from 'uuid'
 import React from 'react'
 import style from './project.module.css'
 import { useParams } from 'react-router-dom'
