@@ -1,4 +1,4 @@
-<h1>Gerenciamento de projetos</h1>
+<h1>Gerenciador de projetos</h1>
 <hr>
 <h2>Linguagens Utilizadas:</h2>
 
