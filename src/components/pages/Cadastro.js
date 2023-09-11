@@ -5,7 +5,6 @@ import style from './Cadastro.module.css'
 
 function NovoProjeto() {
 
-
   const navigate = useNavigate()
   
   function createPost(project){
